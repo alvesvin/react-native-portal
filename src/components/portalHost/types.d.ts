@@ -4,4 +4,10 @@ export interface PortalHostProps {
    * @type string
    */
   name: string;
+
+  /**
+   * Render only the last portaled element
+   * @type boolean
+   */
+  lastOnly?: boolean;
 }

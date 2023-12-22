@@ -1,5 +1,5 @@
 {
-  "name": "@gorhom/portal",
+  "name": "react-native-alves-portal",
   "version": "1.0.14",
   "description": "A simplified portal implementation for ⭕️ React Native ⭕️",
   "main": "lib/commonjs/index",
